@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://jpt:jpt123@cluster0-csinx.mongodb.net/test?retryWrites=true"
+}
