@@ -21,11 +21,10 @@ const Login = ({ login, isAuthenticated }) => {
 
   const onSubmit = async e => {
     e.preventDefault();
-    console.log("Login Success");
     login(email, password);
   };
 
-  if (isAuthenticated) return <Redirect to="/dashboard" />;
+  if (isAuthenticated) return <Redirect to="/posts" />;
 
   return (
     <Fragment>
