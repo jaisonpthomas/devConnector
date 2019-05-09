@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://jpt:jpt123@cluster0-csinx.mongodb.net/test?retryWrites=true",
+  "jwtSecret": "mySecretToken",
+  "githubClientId": "ed29ec5e9b932f2f6407",
+  "githubSecret": "efb8dbc5d7286d4bd813ec1c68833959ea63733f"
+}
