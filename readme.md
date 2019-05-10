@@ -4,3 +4,5 @@
 
 - Application allows developers to create a profile listing their skills, eductation, and experience. Developers can view each others profiles and also write posts. Each post can serve as a discussion thread, with features to like and comment.
 - Application features a rich API-driven Express.js backend with 20+ endpoints. Also features a modern React/Redux.js frontend using written exclusively with functional components using React Hooks. Data is stored in a cloud-based MongoDB Atlas database.
+
+![homepage](https://raw.githubusercontent.com/jaisonpthomas/devConnector/master/homepage.png "homepage")
